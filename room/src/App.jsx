@@ -1,14 +1,18 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
+import Top from './Components/Top'
+import Down from './Components/Down'
+import Nav from './Components/Nav'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1 className="text-bold">hii</h1>
+      <Nav/>
+      <Top/>
+      <Down/>
     </>
   )
 }
