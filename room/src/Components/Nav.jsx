@@ -25,10 +25,10 @@ export default function Nav() {
         
         <span className="list hidden md:block text-2xl">
           <ul className="flex flex-row justify-start items-center gap-[0.75rem] text-[#ffffff] text-2xl lowercase">
-            <li>Home</li>
-            <li>Shop</li>
-            <li>About</li>
-            <li>Contact</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Home</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Shop</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">About</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Contact</li>
           </ul>
         </span>
       </nav>
@@ -40,10 +40,10 @@ export default function Nav() {
         >
           
           <ul className="flex flex-row justify-start gap-[1.2rem] lowercase">
-            <li>Home</li>
-            <li>Shop</li>
-            <li>About</li>
-            <li>Contact</li>
+          <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Home</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Shop</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">About</li>
+            <li className="hover:border-b-4 cursor-pointer transition-all durarion-500 ease-linear">Contact</li>
           </ul>
         </span>
       </nav>
