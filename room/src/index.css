@@ -1,9 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .anidown
 {
     animation: down 0.5s linear 1 ;
+    color:#ffffff;
 }
 @keyframes down {
     0%
