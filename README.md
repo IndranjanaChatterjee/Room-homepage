@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./blog/src/assets/images/screenshot.png)
+![](./room/src/assets/images/screenshot.png)
 
 
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Blog_preview_card)
-- Live Site URL: [live site URL](https://blog-preview-card-pi.vercel.app/)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Room-homepage)
+- Live Site URL: [live site URL](https://room-homepage-two-delta.vercel.app/)
 
 
 ## My process
