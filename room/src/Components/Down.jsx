@@ -5,7 +5,7 @@ import right from "../assets/images/image-about-light.jpg";
 export default function Down() {
   return (
     <section className="down flex flex-wrap md:flex-nowrap ">
-      <div className="right md:w-[30rem]  bg-blue-500 w-[100%] xl:h-[20rem]">
+      <div className="right md:w-[30rem]   w-[100%] xl:h-[20rem]">
         <img src={left} alt="left" className="w-[100%] h-[23rem] xl:h-[100%]"/>
       </div>
       <div className="text w-[35rem] p-[2rem] xl:px-[4rem]  flex flex-col justify-center items-start w-[120rem] font-['League_Spartan'] xl:h-[20rem]">
