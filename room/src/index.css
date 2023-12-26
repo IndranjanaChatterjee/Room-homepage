@@ -2,22 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.anidown
-{
-    animation: down 0.5s linear 1 ;
-    color:#454545;
+.anidown {
+  animation: down 0.5s linear 1;
+  color: #454545;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 @keyframes down {
-    0%
-    {
-        width:0;
-    }
-    
-    100%
-    {
-        width: 50%;
-    }
+  0% {
+    width: 0;
+  }
 
-    
+  100% {
+    width: 50%;
+  }
 }
