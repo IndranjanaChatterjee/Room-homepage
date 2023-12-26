@@ -16,7 +16,7 @@ export default function Top() {
           collection and make your property a reflection of you and what you
           love.
         </p>
-        <button className="show flex flex-row  items-center gap-[0.5rem] cursor-pointer md:tracking-[1rem] uppercase tracking-[0.5rem] mb-[1.5rem]">Shop now <img src={arrow} alt="" /></button>
+        <button className="show flex flex-row font-bold items-center gap-[0.5rem] cursor-pointer md:tracking-[1rem] uppercase tracking-[0.5rem] mb-[1.5rem] hover:text-[#a1a1a1]  transition-all durarion-500 ease-linear">Shop now <img src={arrow} alt="" /></button>
       </div>
     </section>
   );
