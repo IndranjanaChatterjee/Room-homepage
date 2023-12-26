@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.anidown
+{
+    animation: down 0.5s linear 1 ;
+}
+@keyframes down {
+    0%
+    {
+        width:0;
+    }
+    50%
+    {
+        width: 50%;
+    }
+    100%
+    {
+        width: 100%;
+    }
+
+    
+}
