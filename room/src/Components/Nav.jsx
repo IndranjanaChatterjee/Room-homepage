@@ -39,7 +39,7 @@ export default function Nav() {
           
         >
           
-          <ul className="flex flex-row justify-start gap-[1.8rem] ">
+          <ul className="flex flex-row justify-start gap-[1.2rem] ">
             <li>Home</li>
             <li>Shop</li>
             <li>About</li>
