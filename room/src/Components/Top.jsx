@@ -141,7 +141,7 @@ export default function Top() {
           Shop now <img src={arrow} alt="" />
         </button>
       </div>
-      <span className="button flex absolute flex-row gap-[0.2rem] right-0 top-[68.3%] xl:top-[53%] xl:right-[31.5%]">
+      <span className="button flex absolute flex-row gap-[0.2rem] right-0 top-[68.3%] xl:top-[45%] xl:right-[31.5%]">
         <button className="left_btn bg-[#000000] w-[4rem] h-[4rem] text-2xl p-[0.5rem] flex justify-center items-center cursor-pointer hover:bg-[#454545] transition-all duration-200 ease-linear">
           <img
             src={left}
